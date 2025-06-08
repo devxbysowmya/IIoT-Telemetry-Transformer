@@ -1,8 +1,0 @@
-{
-  "device": "device456",
-  "metrics": {
-    "temperature": 24.7,
-    "pressure": 99.8
-  },
-  "timestamp": 1717839300000
-}
